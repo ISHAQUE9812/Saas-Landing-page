@@ -74,18 +74,18 @@ export default function ContactPage() {
             <div className="space-y-6">
               <div className="flex items-center text-lg">
                 <PhoneIcon className="h-6 w-6 text-indigo-300 mr-4 flex-shrink-0" />
-                <span>+91 98765 43210</span> {/* Example Indian number */}
+                <span>+91 8291890060</span> {/* Example Indian number */}
               </div>
               <div className="flex items-center text-lg">
                 <EnvelopeIcon className="h-6 w-6 text-indigo-300 mr-4 flex-shrink-0" />
-                <span>support@yourcompany.com</span>
+                <span>ishaque9812@gmail.com</span>
               </div>
               <div className="flex items-start text-lg">
                 <MapPinIcon className="h-6 w-6 text-indigo-300 mr-4 flex-shrink-0 mt-1" />
                 <span>
                   123 SaaS Street, <br />
                   Tech City, Mumbai, <br />
-                  Maharashtra 400001, India
+                  Maharashtra 400043, India
                 </span>
               </div>
             </div>

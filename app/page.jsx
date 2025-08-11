@@ -1,7 +1,7 @@
 import React from 'react'
-import Hero from "./components/Hero";
-import Features from "./components/Features";
-import Pricing from "./components/Pricing";
+import Hero from "./sections/Hero";
+import Features from "./sections/Features";
+import Pricing from "./sections/Pricing";
 import Footer from "./components/Footer";
 
 
