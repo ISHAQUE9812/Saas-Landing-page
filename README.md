@@ -40,17 +40,6 @@ This project is designed to **attract users, showcase product features, and boos
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots in the `/public/screenshots/` folder and showcase them here.
-
-Example:
-
-![Hero Section](public/screenshots/hero-section.png)
-![Features Section](public/screenshots/features-section.png)
-
----
-
 ## 🔗 Live Demo
 
 🌐 **Coming Soon** — Deployed via [Vercel](https://vercel.com/)
@@ -71,3 +60,4 @@ npm install
 
 # Run the development server
 npm run dev
+
