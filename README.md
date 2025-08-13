@@ -42,7 +42,8 @@ This project is designed to **attract users, showcase product features, and boos
 
 ## 🔗 Live Demo
 
-🌐 **Coming Soon** — Deployed via [saas-landing-page-bh650zjyq-refokus-68e1cf3d.vercel.app]
+🌐 **Coming Soon** — Deployed via(vercel) 
+[saas-landing-page-bh650zjyq-refokus-68e1cf3d.vercel.app]
 
 ---
 
@@ -60,6 +61,7 @@ npm install
 
 # Run the development server
 npm run dev
+
 
 
 
