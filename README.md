@@ -42,7 +42,7 @@ This project is designed to **attract users, showcase product features, and boos
 
 ## 🔗 Live Demo
 
-🌐 **Coming Soon** — Deployed via(vercel) 
+🌐 **Coming Soon** — Deployed via [vercel] 
 [saas-landing-page-bh650zjyq-refokus-68e1cf3d.vercel.app]
 
 ---
